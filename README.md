@@ -112,6 +112,7 @@ N/A
 
 ## [Demo-Output](#table-of-contents)
 ## The demo README on dist file will look like the below:
+![hw21Demo](https://user-images.githubusercontent.com/94802639/168517168-ca34a59e-084a-4f36-8554-e230560ce342.gif)
 
 
 
